@@ -1,0 +1,7 @@
+- Reinforcing Knowledge is one of the most important things that you can do to learn
+- How the game actually work:
+        - We roll a dice
+        - Whenever we get a one we lose all current points, this is why we might need to hold our points
+        - The first player to get 100 points wins the game
+- There is another method of selecting elements elements by their ids
+- Get elementByID is faster
